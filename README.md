@@ -6,8 +6,8 @@
 * 웹페이지 제공
 
 ## REST API
-* [WiFi목록](doc/scan)
-* [WiFi연결](doc/connect)
-* [초기화](doc/reset)
-* [상태](doc/state)
-* [조작](doc/action)
+* [WiFi목록](doc/scan.md)
+* [WiFi연결](doc/connect.md)
+* [초기화](doc/reset.md)
+* [상태](doc/state.md)
+* [조작](doc/action.md)
