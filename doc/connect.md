@@ -13,8 +13,5 @@
   * **Code:** 200<br />
   * **Content:** `-`
 * **Error Response**
-  * **Code:** 400<br />
-  * **Content:** `-`<br />
-Or
   * **Code:** 500<br />
   * **Content:** `-`
