@@ -1,6 +1,6 @@
-**사용자 조회**
+**WiFi 연결**
 ---
-  WiFi연결
+  SSID와 비밀번호로 WiFi에 연결
 * **URL**
   * /connect
 * **Method**
